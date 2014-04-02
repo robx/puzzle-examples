@@ -1,4 +1,5 @@
 puzzle-examples
 ===============
 
-Example puzzles.
+Example puzzles for various puzzle types.
+
