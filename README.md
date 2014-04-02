@@ -1,0 +1,4 @@
+puzzle-examples
+===============
+
+Example puzzles.
